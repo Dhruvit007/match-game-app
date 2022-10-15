@@ -1,0 +1,19 @@
+.tab-item {
+  color: white;
+  width: 100px;
+  text-align: center;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 15px;
+  margin-right: 20px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.selected-tab {
+  border-bottom: solid 2px #fec653;
+  color: #fec653;
+}
+.tab-list-item {
+  list-style-type: none;
+}
